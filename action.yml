@@ -1,4 +1,4 @@
-name: 'Scaleway S3 command line'
+name: 'Scaleway S3 command line - Broken'
 description: 'GitHub Action for AWS S3 CLI configured for Scaleway'
 author: Rémy Léone
 runs:
